@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    padding: 1%;
+}
+ul{
+    margin: auto;
+    list-style-type: none;
+}
+li{
+    float: left;
+    display: inline;
+    margin: 5px;
+}
+a{
+    text-decoration: underline;
+    color: white;
+}
+.tableLink{
+    color: grey;
+}
+#left{
+    float: left;
+    width: 20%;
+    background-color: lightgray;
+    height: 92vh;
+    text-align: center;
+    padding: 1%;
+}
+#right{
+    float:left;
+}
+table{
+    width: 78%;
+}
+th, td{
+    width: 12.5%;
+    text-align: center;
+    border: none;
+    font-size: x-small;
+}
+#headertr{
+    background-color: lightblue;
+}
+.exIcon{
+    height: 40px;
+}
+.infoLabel{
+    color: blue;
+    text-decoration: underline;
+    float:left;
+    margin-right: 10px;
+}
+.info{
+    margin:10px;
+}
+form{
+    margin:20px;
+}
