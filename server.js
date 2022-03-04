@@ -80,7 +80,6 @@ app.post('/handleFiles', function (req, res) {
             filesContainer.push(fileObj)
         }
         console.log(filesContainer)
-        //res.redirect('/')
         res.send("Pliki zostały przesłane pomyślnie.")
 
     });
