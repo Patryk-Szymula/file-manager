@@ -34,9 +34,10 @@ a{
 }
 #right{
     float:left;
+    width: 78%;
 }
 table{
-    width: 78%;
+    width: 100%;
 }
 th, td{
     width: 12.5%;
