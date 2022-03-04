@@ -13,6 +13,5 @@
     "express-handlebars": "^5.3.5",
     "formidable": "^1.2.2"
   },
-  "devDependencies": {},
   "description": ""
 }
